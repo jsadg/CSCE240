@@ -1,0 +1,2 @@
+The result of multiply on 2 and 3 is below
+6
