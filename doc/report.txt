@@ -1,0 +1,16 @@
+Jacob Stoll
+CSCE 240 Report
+So originally I attempted to use a webscraper in order to get the data from the website and save it
+as a local file before reading the data. However, there was difficulty in getting the exact
+number of lines, words, and characters to be correct. So I instead opted to save the files locally
+and then retrieve the information from them. I opened Coinbase2022.txt and read line by line,
+each iteration adding one to the number of lines. I would add the length of the line split by spaces
+to the number of words, and add the length of the line to the number of characters. I confirmed that
+the data was correct by copy and pasting the entire file into an online line/word counter. For the
+parts statistic portion, I looked into the file and noticed that the part numbers were written as 
+"PART (roman numeral)". To get the number of parts I would splice the lines with the "PART", use
+the index of the next item in the array to get the roman numeral, then use the roman library's
+fromRoman() function to get a number. If that number was greater than the number of parts then then
+the number of parts was replaced with that number. I then printed all of that information to the 
+Companystats.txt file and did the same for CampbellSoup2022.txt. The only thing I changed for the
+Campbell soup statistic was that it would append to the Companystats.txt file instead of overwriting.

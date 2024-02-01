@@ -1,0 +1,11 @@
+Coinbase:
+	Number of lines: 3555
+	Number of words: 98183
+	Number of characters: 654431
+	Number of parts: 4
+
+Campbell Soup:
+	Number of lines: 2554
+	Number of words: 45030
+	Number of characters: 299663
+	Number of parts: 4
