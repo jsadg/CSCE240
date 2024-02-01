@@ -13,4 +13,6 @@ the index of the next item in the array to get the roman numeral, then use the r
 fromRoman() function to get a number. If that number was greater than the number of parts then then
 the number of parts was replaced with that number. I then printed all of that information to the 
 Companystats.txt file and did the same for CampbellSoup2022.txt. The only thing I changed for the
-Campbell soup statistic was that it would append to the Companystats.txt file instead of overwriting.
+Campbell soup statistics was that it would append to the Companystats.txt file instead of overwriting.
+This would make sure that the two companies would have their stats properly displayed in the Companystats.txt 
+file.
