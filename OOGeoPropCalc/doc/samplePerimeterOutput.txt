@@ -1,0 +1,10 @@
+No correct shape input detected
+CIRCLE PERIMETER: 12.566371
+CIRCLE PERIMETER: Not enough information to calculate
+No correct shape input detected
+Invalid shape information
+TRIANGLE PERIMETER: 6.000000
+TRIANGLE PERIMETER: 65.000000
+RECTANGLE PERIMETER: 104.000000
+CIRCLE PERIMETER: 18.849556
+CIRCLE PERIMETER: Not enough information to calculate
