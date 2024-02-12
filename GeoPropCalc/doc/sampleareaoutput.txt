@@ -1,0 +1,9 @@
+No correct shape input detected
+CIRCLE AREA: 12.566360
+CIRCLE AREA: Not enough information to calculate
+No correct shape input detected
+RECTANGLE AREA: 4.000000
+TRIANGLE AREA: 1.732051
+TRIANGLE AREA: 117.093712
+RECTANGLE AREA: 100.000000
+CIRCLE AREA: 28.274310
