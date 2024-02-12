@@ -1,0 +1,2 @@
+The result of divide on 2 and 0 is below
+inf
