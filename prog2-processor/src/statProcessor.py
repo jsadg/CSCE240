@@ -16,7 +16,7 @@ def print_to_file(start_item, end_item):
         for _ in range(193):
             next(f)
     ans_writer=open("data/output.txt", "a")
-    print("Relevant information found\n")
+    print("Relevant information found, output.txt file updated\n")
     ans_writer.write("Here is the relevant text from "+company_name+"'s Form 10-K:\n\n")
     included = False
     for line in f:
