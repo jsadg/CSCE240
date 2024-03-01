@@ -1,0 +1,26 @@
+Jacob Stoll
+CSCE 240 Prog3 Report
+
+To run in terminal change directory into the Prog3-ui and then run with python src/main.py
+Changes will be made to the output.txt file in the data folder
+
+When ran the program asks the user to input a question with a company name included or to enter 0 
+to quit. The available companys are listed in the terminal. If the user enters 0 then the program 
+breaks out of a while loop and stops running. A valid company is identified if the question the
+user inputs contains either Campbell or Coinbase as those are the two allowed companies. 
+RegEx expressions are used to find which company was entered. If the user enters in a question
+without a valid company name then they are asked to try again and the while loop repeats. Else if
+the RegEx matches then the company is selected (If both are listed it defaults to Campbell Soup).
+Then another group of RegExs try to match to the question and each one has keywords that pertain
+to a particular section of the Form 10-K. If one of them matches then the relevant information is
+printed out to the output.txt file in the data folder. If none of them match then the user is told
+that no information in the Form 10-K matches their question. If more than one would match, then
+the section higher in the file (Item 1 vs Item 9 for example) would be written to the file. After
+printing to the file then the while loop repeats and the user is again asked what their question is.
+The program is wrapped in a try-catch that will tell the user that their input is invalid if it 
+errors and that they should try again.
+
+Basically it's my design for prog2 but split up into classes to make it more easy to resue.
+The ui class contains methods that are used to interact with the user and the file.
+The statProcessor class is used to parse data and identify matches.
+Some additional improvements were also made.
