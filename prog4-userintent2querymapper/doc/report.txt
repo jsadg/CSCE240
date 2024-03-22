@@ -1,0 +1,22 @@
+Jacob Stoll
+CSCE 240 Prog4 Report
+
+To run in terminal change directory into the Prog4-userintent2querymapper and then run with python src/main.py
+Changes will be made to the output.txt file in the data folder
+
+When ran the program asks the user to input a question with a company name included or to enter q 
+to quit. The available companies are listed in the terminal. If the user enters q or quit then the program 
+breaks out of a while loop and stops running. A valid company is identified if the question the
+user inputs contains either Campbell or Coinbase as those are the two allowed companies. String matching using
+the simpson coefficient is then used to find how close possible intents are to the user's question. If they match 
+above a .7% threshold then the part that was close to their intent is printed to data/output.txt. If multiple 
+part/items have the same matching percentage then the user is asked to which they want to choose. The one they 
+choose is printed out. If there is nothing above the .7% threshold then the user is told that nothing was, 
+and that they should try again. If no company name is detected then chit chat is checked for. Basic 
+statements such as hello, or how is the weather are checked with string matching, and then an appropriate 
+response is printed back if it matches enough.The various methods are broken up between the Processor 
+class and the UI class. The UI class handles the user interaction such as printing a question, and the Processor 
+class handles all of the computation. The classes are split this way to make reuse easier in the future.
+
+
+
