@@ -2,7 +2,7 @@ CSCE240 PA5
 Jacob Stoll
 
 Folders:
-chat_sessions contains previous chats
+chat_sessions contains previous chats\n
 data contains statistics csv and company files
 doc contains the report, possible inputs, and UML diagram
 src contains the python files for the program
