@@ -1,0 +1,9 @@
+Your question was: How are you doing
+I'm doing well, but would do even better if you asked me a question
+Your question was: q
+You decided to quit
+Session Statistics:
+File Name:data_1712200762.6062326.txt
+#User Utterances:2
+#System Utterances:3
+Time Elapsed:4.215197801589966

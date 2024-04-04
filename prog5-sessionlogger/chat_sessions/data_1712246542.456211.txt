@@ -1,0 +1,9 @@
+Your question was: test
+Invalid input, please try again
+Your question was: q
+You decided to quit
+Session Statistics:
+File Name:data_1712246542.456211.txt
+#User Utterances:2
+#System Utterances:3
+Time Elapsed:3.3707971572875977

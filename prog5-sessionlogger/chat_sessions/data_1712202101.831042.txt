@@ -1,0 +1,17 @@
+Your question was: Campbell soup
+Match ratio: 0.25
+Match ratio was not high enough
+I do not know this information
+No information in the Form 10-k for the company matches the request, please try again
+
+Your question was: Coinvbase
+Invalid input, please try again
+Your question was: no
+Invalid input, please try again
+Your question was: q
+You decided to quit
+Session Statistics:
+File Name:data_1712202101.831042.txt
+#User Utterances:4
+#System Utterances:5
+Time Elapsed:15.954080581665039

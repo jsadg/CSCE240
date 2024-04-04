@@ -1,0 +1,19 @@
+Jacob Stoll
+CSCE 240 Prog5 Report
+
+Prog4 was copied over and modifications were made to it to store output as a data_time file in the chat_sessions 
+folder. A new class called SessionStats was made to handle statistics of each session. One of its methods is called 
+append_stats, which is used to include information about the session at the bottom of each chat in prog4. Another 
+method called update_csv would use those statistics at the bottom of each file to create a csv of the statistcs.
+The method parses through each file in the chat_sessions folder, gets the relevant statistics, and prints it to the
+csv in the proper format. Other methods included in the SessionStats class would parse the csv file for information
+needed to print out summary statistics or whole chats. When the sessionStatistics.py file is ran, the csv file is
+updated and the user is presented with four options. 0 to quit, 1 to view a total summary, 2 to view a specific 
+summary, 3 to view a chat, or 4 to update the csv file again. If they enter 0, the program terminates. Entering
+1 will call the get_total_summary method from the SessionStats class which will print out a summary of all the 
+stats in the csv file. Entering 2 prompts the user for a chat number, and if valid gives the stats for that
+session from the csv. Entering 3 also prompts the user for a number, and if it is valid it takes the file name
+from the csv and uses it to print that file to the terminal. Entering 4 updates the csv from the update_csv method
+in the SessionStats class. The options will be presented continously until the user quits and is in a try except
+to handle errors.
+

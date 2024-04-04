@@ -1,0 +1,5 @@
+To interact with chatbot change directory into the Prog5-sessionlogger and then run with python src/chatbot.py
+Changes will be made to a file in the chat_sessions folder
+
+To interact with session logger change directory into the Prog5-sessionlogger and then run with python src/sessionStatistics.py
+Response will be printed to the terminal
