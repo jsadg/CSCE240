@@ -1,0 +1,21 @@
+Your question was: How are you doing
+I'm doing well, but would do even better if you asked me a question
+
+Your question was: Other stats
+Statistics Menu was Opened
+Statistics Menu was Closed
+
+Your question was: Coinbase executives
+Match ratio: 1.0
+Here is the relevant text from Coinbase's Form 10-K:
+Item 10. Directors, Executive Officers and Corporate Governance
+The information required by this item is incorporated by reference to the definitive Proxy Statement for our 2023 Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2022.
+
+Your question was: q
+You decided to quit
+
+Session Statistics:
+File Name:data_1713399320.0772738.txt
+#User Utterances:4
+#System Utterances:5
+Time Elapsed:24.633943796157837

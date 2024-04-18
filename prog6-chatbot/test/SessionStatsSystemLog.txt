@@ -1,0 +1,67 @@
+Enter 0 to quit
+Enter 1 to view a summary of all the sessions
+Enter 2 to view a specific session summary
+Enter 3 to view a chat
+Enter 4 to update the chat_statistics.csv file
+1
+Total Summary:
+Number of chats: 6
+Number of user utterances: 18
+Number of system utterances: 24
+Total Time: 200.3103756904602 seconds
+Enter 0 to quit
+Enter 1 to view a summary of all the sessions
+Enter 2 to view a specific session summary
+Enter 3 to view a chat
+Enter 4 to update the chat_statistics.csv file
+2
+Enter the number of the chat you wish to summarize
+1
+Chat 1:
+Number of user utterances: 4
+Number of system utterances: 5
+Time Taken: 146.9605610370636
+Enter 0 to quit
+Enter 1 to view a summary of all the sessions
+Enter 2 to view a specific session summary
+Enter 3 to view a chat
+Enter 4 to update the chat_statistics.csv file
+3
+Enter the number of the chat you wish to view
+1
+
+Hello!
+Your question was: Hello
+Your question was: Coinbase
+Match ratio: 0.25
+Match ratio was not high enough
+I do not know this information
+No information in the Form 10-k for the company matches the request, please try again
+
+Your question was: Coinbase executives
+Match ratio: 1.0
+Here is the relevant text from Coinbase's Form 10-K:
+Item 10. Directors, Executive Officers and Corporate Governance
+The information required by this item is incorporated by reference to the definitive Proxy Statement for our 2023 Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2022.
+
+Your question was: q
+You decided to quit
+Session Statistics:
+File Name:data_1712199914.1135204.txt
+#User Utterances:4
+#System Utterances:5
+Time Elapsed:146.9605610370636
+Enter 0 to quit
+Enter 1 to view a summary of all the sessions
+Enter 2 to view a specific session summary
+Enter 3 to view a chat
+Enter 4 to update the chat_statistics.csv file
+4
+chat_statistics.csv updated
+Enter 0 to quit
+Enter 1 to view a summary of all the sessions
+Enter 2 to view a specific session summary
+Enter 3 to view a chat
+Enter 4 to update the chat_statistics.csv file
+0
+Bye

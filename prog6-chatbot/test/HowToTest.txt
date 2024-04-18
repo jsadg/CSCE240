@@ -1,0 +1,2 @@
+To interact with chatbot change directory into the Prog6-chatbot and then run with python src/chatbot.py
+Changes will be made to a file in the chat_sessions folder

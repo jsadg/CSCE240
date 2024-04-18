@@ -1,0 +1,8 @@
+Your question was: q
+You decided to quit
+
+Session Statistics:
+File Name:data_1713394405.1685193.txt
+#User Utterances:1
+#System Utterances:2
+Time Elapsed:3.512965440750122

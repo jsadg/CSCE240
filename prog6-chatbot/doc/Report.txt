@@ -1,0 +1,26 @@
+Jacob Stoll
+CSCE 240 Prog6 Report
+
+Reused code:
+Tarun's Prog1 was copied over as a fileReader class and the scapeFile method is called before each time the company
+file is read. 
+Some of Ethan's intent map was used to improve my own and handle more queries
+
+Project:
+When the user runs the program they can either quit, enter a question, or type in a stats commands
+Usage stats returns the stats for the current chat_sessions
+Other stats opens up the statistics menu by calling the sessionStatistics file
+-Several options within there, same as Pa5 basically
+Enter 0 to quit
+Enter 1 to view a summary of all the sessions
+Enter 2 to view a specific session summary
+Enter 3 to view a chat
+Enter 4 to update the chat_statistics.csv file
+
+When the user types in a question, a company name is looked for, and if found, then matches to the intent map
+to find out what they want
+If a high enough match ratio is found then the relevant part/item is printed to a chat session file
+
+If a company name is not found than chit-chat is looked for in the same way and some queries are handled there
+If nothing if found that matches, then the user is informed that no information matches
+

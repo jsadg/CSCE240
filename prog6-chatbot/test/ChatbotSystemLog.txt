@@ -1,0 +1,18 @@
+Your question was: Coinbase executives
+Match ratio: 1.0
+Here is the relevant text from Coinbase's Form 10-K:
+Item 10. Directors, Executive Officers and Corporate Governance
+The information required by this item is incorporated by reference to the definitive Proxy Statement for our 2023 Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2022.
+
+Your question was: Other stats
+Statistics Menu was Opened
+Statistics Menu was Closed
+
+Your question was: q
+You decided to quit
+
+Session Statistics:
+File Name:data_1713400293.550973.txt
+#User Utterances:3
+#System Utterances:4
+Time Elapsed:15.852797269821167

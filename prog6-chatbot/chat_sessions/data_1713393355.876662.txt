@@ -1,0 +1,12 @@
+Your question was: Other stats
+Statistics Menu was Opened
+Statistics Menu was Closed
+
+Your question was: q
+You decided to quit
+
+Session Statistics:
+File Name:data_1713393355.876662.txt
+#User Utterances:2
+#System Utterances:3
+Time Elapsed:1007.3762669563293
